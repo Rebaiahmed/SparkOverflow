@@ -3,20 +3,34 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "chart.js": "^1.1.1",
+    "d3": "^4.12.2",
+    "load-json-file": "^4.0.0",
+    "papaparse": "^4.3.6",
     "react": "^16.2.0",
+    "react-bootstrap": "^0.32.0",
+    "react-chartjs": "^1.2.0",
+    "react-chartjs-2": "^2.7.0",
+    "react-d3-basic": "^1.6.11",
+    "react-d3-brush": "^1.1.0",
+    "react-d3-core": "^1.3.9",
+    "react-d3-tooltip": "^1.4.14",
+    "react-d3-zoom": "^1.1.2",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.1.0"
+    "react-scripts": "1.1.0",
+    "react-vis": "^1.8.2",
+    "topojson": "^3.0.2"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-   "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "devDependencies": {
     "gh-pages": "^1.1.0"
   },
-"homepage": "https://rebaiahmed.github.io/stack_overflow"
+  "homepage": "https://rebaiahmed.github.io/stack_overflow"
 }
