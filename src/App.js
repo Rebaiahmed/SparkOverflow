@@ -16,7 +16,7 @@ var Papa = require('papaparse')
 var LineChart = require("react-chartjs").Line;
 var BarChart = require("react-chartjs").Bar
 var PieChart = require("react-chartjs").Pie;
-
+var axios = require('axios');
 /*var d3 = require('d3');
 var ReactDOM = require('react-dom');*/
 
@@ -26,22 +26,67 @@ constructor()
 {
 super()
 this.state = {
-   useCanvas: false
+   type_developers : [],
+   countries :[],
+   educations :[],
+   gender :[],
+   programmer_hobbies :'',
+   nbr_web_developers :0,
+   web_developers :[],
+  nbr_mobile_developers :0,
+  mobile_developers : [],
+  ide :[],
+  programming_languaes :[],
+  databses :[],
+  methodologies :[],
+  version_controls :[],
+  platforms :[],
+  programming_languages :[],
+  platforms :[],
+  developer_type :[],
  }
 }
 
+//****************************//
 
 
-test()
-{
-  Papa.parse('http://localhost:3000/developers.csv', {
-	complete: function(results) {
-		console.log("Finished:", results.data);
-	}
-});
+componentDidMount() {
+
+
+  //**********get the developers professions*********
+    axios.get(`http://localhost:9000/programmers_professions`)
+      .then(res => {
+        console.log("res" + JSON.stringify(res));
+        //this.setState({ type_developers:res });
+      });
 
 
 
+      //**********get countires*********
+        axios.get(`http://localhost:9000/countries`)
+          .then(res => {
+            console.log("res" + JSON.stringify(res));
+            //this.setState({ type_developers:res });
+          });
+
+
+
+
+          //**********get educations*********
+            axios.get(`http://localhost:9000/educations`)
+              .then(res => {
+                console.log("res" + JSON.stringify(res));
+                //this.setState({ type_developers:res });
+              });
+
+
+
+                        //**********get Gender*********
+                          axios.get(`http://localhost:9000/educations`)
+                            .then(res => {
+                              console.log("res" + JSON.stringify(res));
+                              //this.setState({ type_developers:res });
+                            });
 
 
 

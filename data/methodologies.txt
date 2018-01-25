@@ -1,0 +1,645 @@
+Waterfall; Agile; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Scrum; Pair; Mob; Evidence-based SWE,1
+Lean; Scrum; Kanban; Domain-driven design,1
+Agile; Scrum; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Scrum; Extreme; Mob; Kanban; Domain-driven design,1
+Agile; Lean; Extreme; Pair; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Extreme; Kanban; Evidence-based SWE,1
+Lean; Pair; Evidence-based SWE,1
+Waterfall; PRINCE2; Extreme; Pair,1
+Waterfall; PRINCE2; Scrum; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Lean; PRINCE2; Scrum,1
+Waterfall; Agile; PRINCE2; Scrum; Pair; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; PRINCE2; Pair,1
+Agile; Lean; Extreme; Pair; Mob,1
+Agile; Extreme; Pair; Mob; Kanban; Domain-driven design,1
+Lean; Evidence-based SWE; Domain-driven design,1
+Waterfall; Pair; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; Extreme; Mob,1
+PRINCE2; Scrum; Kanban; Evidence-based SWE,1
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; Mob,1
+Lean; PRINCE2,1
+Waterfall; PRINCE2; Scrum; Evidence-based SWE,1
+Waterfall; Agile; Lean; Scrum; Pair; Mob,1
+Extreme; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Agile; Lean; Kanban; Evidence-based SWE,1
+Lean; Mob; Kanban,1
+PRINCE2; Scrum; Extreme; Pair,1
+Waterfall; Agile; PRINCE2; Pair,1
+Waterfall; PRINCE2; Kanban,1
+Waterfall; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Pair; Kanban; Evidence-based SWE,1
+Scrum; Mob; Evidence-based SWE; Domain-driven design,1
+Agile; Lean; Mob; Kanban,1
+Extreme; Mob; Kanban,1
+Waterfall; Scrum; Pair; Kanban; Evidence-based SWE,1
+Lean; PRINCE2; Kanban,1
+Agile; Extreme; Pair; Evidence-based SWE; Domain-driven design,1
+Lean; Extreme; Pair; Kanban,1
+Agile; PRINCE2; Scrum; Mob; Domain-driven design,1
+Waterfall; Extreme; Mob; Evidence-based SWE,1
+Extreme; Mob; Domain-driven design,1
+Agile; Lean; Extreme; Pair; Mob; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Lean; Extreme; Pair; Kanban,1
+Waterfall; Mob; Domain-driven design,1
+Lean; Extreme; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+PRINCE2; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE,1
+Agile; Scrum; Mob; Evidence-based SWE; Domain-driven design,1
+Lean; Scrum; Evidence-based SWE,1
+Waterfall; Extreme; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Lean; Scrum; Extreme; Pair; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Kanban; Evidence-based SWE,1
+Agile; Lean; PRINCE2; Kanban,1
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Kanban,1
+Waterfall; Extreme; Kanban; Domain-driven design,1
+PRINCE2; Extreme; Pair; Mob,1
+Waterfall; Agile; PRINCE2; Extreme; Domain-driven design,1
+Waterfall; PRINCE2; Scrum; Kanban,1
+Waterfall; Extreme; Pair; Kanban; Domain-driven design,1
+Waterfall; Agile; Scrum; Extreme; Evidence-based SWE; Domain-driven design,1
+Scrum; Pair; Mob; Kanban; Domain-driven design,1
+Lean; Scrum; Extreme; Pair; Mob; Kanban,1
+Waterfall; Lean; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Scrum; Pair; Evidence-based SWE,1
+Lean; Scrum; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Extreme; Pair; Evidence-based SWE,1
+Lean; Scrum; Extreme; Mob; Domain-driven design,1
+Agile; Mob; Evidence-based SWE,1
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Evidence-based SWE,1
+Agile; Lean; Extreme; Mob; Kanban; Domain-driven design,1
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; Scrum; Pair; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Pair; Kanban; Domain-driven design,1
+Lean; PRINCE2; Extreme,1
+Waterfall; Scrum; Extreme; Pair; Evidence-based SWE,1
+Agile; Scrum; Kanban; Evidence-based SWE; Domain-driven design,1
+Agile; Extreme; Mob; Kanban,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Mob; Domain-driven design,1
+PRINCE2; Scrum; Extreme; Kanban,1
+Agile; Lean; PRINCE2; Scrum; Pair; Mob; Kanban; Domain-driven design,1
+Lean; Scrum; Domain-driven design,1
+Waterfall; PRINCE2; Extreme; Pair; Evidence-based SWE; Domain-driven design,1
+Waterfall; PRINCE2; Scrum; Extreme,1
+Waterfall; Agile; PRINCE2; Pair; Kanban,1
+Waterfall; Pair; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Lean; Pair; Evidence-based SWE,1
+Extreme; Pair; Mob; Kanban,1
+Waterfall; Agile; Scrum; Mob; Domain-driven design,1
+Agile; PRINCE2; Extreme,1
+Waterfall; Agile; PRINCE2; Extreme; Pair; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Extreme; Pair; Kanban; Evidence-based SWE,1
+Agile; Scrum; Extreme; Pair; Mob; Domain-driven design,1
+Waterfall; Lean; PRINCE2; Mob,1
+Waterfall; Agile; PRINCE2; Scrum; Mob,1
+Waterfall; Agile; Extreme; Pair; Mob,1
+Waterfall; Lean; Extreme; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Lean; Scrum; Extreme; Pair,1
+PRINCE2; Pair; Evidence-based SWE; Domain-driven design,1
+Scrum; Extreme; Pair; Mob; Kanban,1
+Agile; PRINCE2; Pair; Kanban,1
+PRINCE2; Mob,1
+Waterfall; Agile; Extreme; Mob; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Extreme; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Pair; Mob; Kanban; Domain-driven design,1
+Waterfall; Agile; Scrum; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Scrum; Extreme; Evidence-based SWE,1
+Waterfall; Agile; Lean; Scrum; Mob; Evidence-based SWE,1
+Waterfall; Lean; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Pair; Kanban; Evidence-based SWE; Domain-driven design,1
+Agile; PRINCE2; Pair; Domain-driven design,1
+Waterfall; Agile; Scrum; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Lean; Extreme; Pair; Domain-driven design,1
+Waterfall; PRINCE2; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE,1
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,1
+Agile; Pair; Mob; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Extreme; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; PRINCE2; Extreme; Mob; Evidence-based SWE; Domain-driven design,1
+Lean; Pair; Mob; Evidence-based SWE,1
+Agile; Lean; Extreme; Pair; Evidence-based SWE; Domain-driven design,1
+Lean; Scrum; Extreme; Domain-driven design,1
+Waterfall; Agile; Extreme; Pair; Evidence-based SWE,1
+Scrum; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Evidence-based SWE,1
+Waterfall; Scrum; Extreme; Pair; Mob; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Scrum; Pair; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Mob; Evidence-based SWE; Domain-driven design,1
+Agile; Scrum; Extreme; Kanban; Evidence-based SWE,1
+Agile; Scrum; Mob; Domain-driven design,1
+Waterfall; Agile; PRINCE2; Scrum; Pair; Mob,1
+Waterfall; Scrum; Pair; Mob; Evidence-based SWE,1
+Waterfall; Agile; Lean; PRINCE2,1
+Agile; Lean; Pair; Evidence-based SWE; Domain-driven design,1
+Waterfall; Lean; PRINCE2; Kanban,1
+Waterfall; Agile; Lean; Scrum; Mob,1
+Waterfall; Agile; Lean; Extreme; Pair; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Extreme; Mob,1
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair; Domain-driven design,1
+Scrum; Mob; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Kanban,1
+Lean; Scrum; Extreme; Pair; Domain-driven design,1
+Agile; Lean; Scrum; Evidence-based SWE; Domain-driven design,1
+Lean; Scrum; Mob,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban,1
+Lean; Extreme; Evidence-based SWE,1
+PRINCE2; Scrum; Mob,1
+Pair; Evidence-based SWE; Domain-driven design,1
+Agile; Lean; Scrum; Extreme; Pair; Mob; Domain-driven design,1
+Agile; Lean; Scrum; Extreme; Mob; Kanban,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Lean; Scrum; Mob; Kanban; Domain-driven design,1
+Agile; Lean; Scrum; Extreme; Mob; Kanban; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Extreme; Pair; Evidence-based SWE; Domain-driven design,1
+Waterfall; Extreme; Mob; Domain-driven design,1
+Agile; Lean; Pair; Mob; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Scrum; Pair; Mob; Kanban; Evidence-based SWE,1
+Agile; Lean; Scrum; Mob; Domain-driven design,1
+Agile; Lean; Pair; Evidence-based SWE,1
+Scrum; Extreme; Pair; Evidence-based SWE,1
+Agile; Lean; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair; Mob,1
+Waterfall; Extreme; Pair; Evidence-based SWE; Domain-driven design,1
+Waterfall; Agile; Kanban; Evidence-based SWE,1
+Waterfall; Agile; PRINCE2; Kanban; Domain-driven design,1
+Waterfall; Agile; Scrum; Extreme; Pair; Mob; Evidence-based SWE,1
+Lean; Scrum; Pair; Mob; Kanban,1
+Waterfall; Extreme; Mob; Kanban; Domain-driven design,1
+Waterfall; Agile; Lean; PRINCE2; Pair,1
+Waterfall; Agile; Lean; Extreme; Pair; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; PRINCE2; Domain-driven design,1
+Waterfall; Lean; Scrum; Pair; Mob; Kanban,1
+Waterfall; Scrum; Mob,1
+Agile; Scrum; Pair; Mob; Kanban; Evidence-based SWE,1
+Agile; Lean; PRINCE2; Scrum; Kanban; Evidence-based SWE,1
+Lean; PRINCE2; Pair,1
+Lean; Kanban; Evidence-based SWE,1
+Agile; Scrum; Extreme; Mob; Domain-driven design,1
+Waterfall; Agile; Mob; Evidence-based SWE,1
+Agile; Lean; Scrum; Extreme; Pair; Mob; Evidence-based SWE,1
+PRINCE2; Scrum; Extreme,1
+Waterfall; Agile; Mob; Domain-driven design,1
+Agile; Scrum; Extreme; Mob; Kanban; Domain-driven design,1
+Scrum; Extreme; Pair; Mob; Domain-driven design,1
+Agile; Kanban; Evidence-based SWE; Domain-driven design,1
+Agile; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,1
+Agile; Lean; Scrum; Extreme; Kanban; Evidence-based SWE,1
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Domain-driven design,1
+Agile; PRINCE2; Extreme; Pair; Kanban,1
+Waterfall; Mob; Kanban; Domain-driven design,1
+Agile; Scrum; Extreme; Mob; Kanban,1
+Agile; Lean; Scrum; Extreme; Mob; Domain-driven design,1
+Agile; Lean; Pair; Domain-driven design,1
+Waterfall; Agile; PRINCE2; Scrum; Kanban; Evidence-based SWE,1
+Extreme; Kanban; Domain-driven design,1
+Lean; Pair; Kanban; Domain-driven design,1
+Waterfall; Scrum; Extreme; Kanban; Domain-driven design,1
+Agile; Lean; PRINCE2; Scrum; Kanban; Domain-driven design,1
+Extreme; Pair; Kanban; Domain-driven design,1
+Waterfall; Extreme; Pair; Mob; Evidence-based SWE; Domain-driven design,1
+Waterfall; Scrum; Extreme; Evidence-based SWE,1
+Lean; Kanban; Domain-driven design,1
+Lean; Pair; Domain-driven design,2
+Agile; Pair; Mob; Kanban,2
+Agile; Lean; Scrum; Pair; Mob; Kanban; Evidence-based SWE,2
+Scrum; Mob; Kanban,2
+Agile; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Waterfall; Lean; Kanban; Domain-driven design,2
+Waterfall; Agile; Lean; PRINCE2; Scrum; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Agile; Lean; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Scrum; Evidence-based SWE; Domain-driven design,2
+Agile; Lean; Scrum; Extreme; Pair; Evidence-based SWE; Domain-driven design,2
+Agile; Mob; Kanban,2
+Agile; PRINCE2; Scrum; Extreme; Kanban; Domain-driven design,2
+Agile; Lean; Mob,2
+Agile; Lean; PRINCE2; Scrum; Pair; Kanban; Domain-driven design,2
+Agile; Extreme; Pair; Mob; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Scrum; Extreme; Kanban; Evidence-based SWE; Domain-driven design,2
+Agile; Lean; Scrum; Pair; Evidence-based SWE; Domain-driven design,2
+Waterfall; Lean; Domain-driven design,2
+Agile; PRINCE2; Scrum; Domain-driven design,2
+Agile; Extreme; Kanban; Domain-driven design,2
+Agile; Lean; PRINCE2; Scrum; Pair,2
+Agile; Lean; Extreme; Evidence-based SWE,2
+Lean; Mob; Evidence-based SWE,2
+Lean; Extreme; Kanban,2
+Waterfall; Agile; Extreme; Pair; Kanban; Domain-driven design,2
+Agile; Scrum; Mob; Kanban; Domain-driven design,2
+Agile; PRINCE2; Kanban,2
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban; Domain-driven design,2
+Scrum; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Evidence-based SWE; Domain-driven design,2
+Waterfall; Scrum; Evidence-based SWE,2
+Waterfall; Agile; Scrum; Extreme; Mob; Kanban,2
+Mob; Evidence-based SWE; Domain-driven design,2
+Extreme; Pair; Mob; Evidence-based SWE,2
+Agile; PRINCE2; Scrum; Extreme; Pair; Kanban; Domain-driven design,2
+Waterfall; Scrum; Pair; Domain-driven design,2
+Agile; PRINCE2; Domain-driven design,2
+Agile; Scrum; Extreme; Mob,2
+Extreme; Mob; Evidence-based SWE,2
+Waterfall; Agile; Lean; PRINCE2; Scrum; Domain-driven design,2
+Lean; Scrum; Extreme; Pair; Kanban,2
+Waterfall; Extreme; Mob,2
+Agile; Scrum; Extreme; Evidence-based SWE; Domain-driven design,2
+Lean; Extreme; Pair; Evidence-based SWE,2
+Agile; Lean; Scrum; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Mob; Domain-driven design,2
+Waterfall; Agile; PRINCE2; Evidence-based SWE,2
+Waterfall; Agile; Lean; Pair; Kanban,2
+Agile; Extreme; Mob; Evidence-based SWE; Domain-driven design,2
+PRINCE2; Scrum; Domain-driven design,2
+Lean; Extreme; Pair; Mob; Evidence-based SWE,2
+Waterfall; Lean; Pair,2
+Waterfall; Lean; Pair; Kanban,2
+Waterfall; PRINCE2; Scrum; Pair,2
+Waterfall; Agile; PRINCE2; Kanban,2
+Waterfall; Agile; PRINCE2; Scrum; Kanban; Domain-driven design,2
+Waterfall; Agile; Lean; PRINCE2; Scrum; Pair,2
+Agile; Extreme; Evidence-based SWE; Domain-driven design,2
+Mob; Kanban,2
+Agile; Extreme; Pair; Kanban; Evidence-based SWE,2
+Agile; Scrum; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,2
+Agile; Scrum; Mob; Evidence-based SWE,2
+Agile; PRINCE2; Scrum; Extreme,2
+Agile; Lean; Scrum; Extreme; Pair; Mob,2
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Kanban,2
+Agile; Lean; Pair; Mob; Evidence-based SWE,2
+PRINCE2; Pair,2
+Agile; Scrum; Pair; Evidence-based SWE; Domain-driven design,2
+Agile; Extreme; Pair; Mob; Domain-driven design,2
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban,2
+Waterfall; PRINCE2; Domain-driven design,2
+Scrum; Mob; Evidence-based SWE,2
+Waterfall; Mob; Evidence-based SWE,2
+Lean; Scrum; Pair; Kanban; Domain-driven design,2
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Scrum; Extreme; Evidence-based SWE,2
+Agile; Lean; PRINCE2; Pair; Kanban,2
+Agile; PRINCE2; Scrum; Extreme; Kanban,2
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair,2
+Agile; Pair; Mob; Domain-driven design,2
+Waterfall; Agile; Lean; Domain-driven design,2
+Extreme; Mob; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Lean; PRINCE2; Scrum,2
+Waterfall; Agile; Extreme; Evidence-based SWE,2
+Agile; Lean; PRINCE2,2
+Lean; PRINCE2; Scrum,2
+Waterfall; Agile; Lean; Scrum; Pair; Evidence-based SWE,2
+Lean; Extreme; Domain-driven design,2
+Waterfall; Lean; Pair; Evidence-based SWE,2
+Extreme; Pair; Mob; Domain-driven design,2
+Waterfall; Lean; Evidence-based SWE; Domain-driven design,2
+Agile; Lean; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,2
+Waterfall; Agile; Lean; Extreme; Domain-driven design,2
+Kanban; Evidence-based SWE; Domain-driven design,2
+Lean; Extreme; Pair,2
+Agile; Lean; Scrum; Extreme; Evidence-based SWE,2
+Scrum; Pair; Evidence-based SWE,2
+Waterfall; Agile; Lean; Evidence-based SWE,2
+Agile; Lean; PRINCE2; Scrum; Extreme; Kanban; Domain-driven design,2
+Scrum; Extreme; Pair; Kanban; Domain-driven design,2
+Agile; Extreme; Mob,2
+Waterfall; Agile; Scrum; Extreme; Pair; Mob; Domain-driven design,2
+Waterfall; Extreme; Pair; Kanban,2
+Waterfall; Agile; Scrum; Mob; Kanban,2
+Waterfall; Lean; Extreme; Evidence-based SWE,2
+Waterfall; Agile; PRINCE2; Scrum; Extreme,2
+Waterfall; Scrum; Extreme; Domain-driven design,2
+Waterfall; Agile; Lean; Scrum; Mob; Kanban,3
+Waterfall; Lean; Scrum; Extreme; Pair,3
+Agile; Extreme; Pair; Evidence-based SWE,3
+Waterfall; Agile; Lean; Scrum; Pair; Kanban; Evidence-based SWE; Domain-driven design,3
+Waterfall; Agile; Lean; Extreme; Kanban,3
+Pair; Mob; Kanban,3
+Waterfall; Lean; Scrum,3
+Pair; Mob; Domain-driven design,3
+Waterfall; Agile; Scrum; Extreme; Pair; Mob,3
+Lean; Domain-driven design,3
+Scrum; Extreme; Pair; Mob,3
+Waterfall; Agile; PRINCE2; Scrum; Domain-driven design,3
+Agile; PRINCE2; Scrum; Extreme; Pair; Domain-driven design,3
+Lean; Scrum; Extreme,3
+Agile; Pair; Evidence-based SWE; Domain-driven design,3
+Waterfall; Agile; Lean; Scrum; Evidence-based SWE,3
+Waterfall; Agile; Extreme; Kanban,3
+Agile; Extreme; Pair; Mob; Kanban,3
+Agile; Lean; Pair; Mob,3
+PRINCE2; Scrum; Pair,3
+Waterfall; Agile; Scrum; Extreme; Pair; Evidence-based SWE; Domain-driven design,3
+Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,3
+Agile; PRINCE2; Scrum; Kanban; Domain-driven design,3
+Waterfall; Agile; Scrum; Pair; Mob; Domain-driven design,3
+Waterfall; Agile; Lean; Extreme,3
+Agile; Lean; Extreme; Kanban,3
+Waterfall; Agile; Scrum; Extreme; Mob,3
+Waterfall; Agile; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,3
+Waterfall; Lean; Kanban,3
+Waterfall; Extreme; Pair; Mob,3
+Pair; Kanban; Evidence-based SWE,3
+Waterfall; Agile; Pair; Evidence-based SWE,3
+Agile; Kanban; Evidence-based SWE,3
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban; Domain-driven design,3
+Waterfall; Scrum; Kanban; Domain-driven design,3
+Waterfall; Agile; Evidence-based SWE; Domain-driven design,3
+Waterfall; Scrum; Pair; Kanban; Domain-driven design,3
+Agile; Lean; PRINCE2; Scrum; Kanban,3
+Agile; Lean; Pair; Kanban; Domain-driven design,3
+Waterfall; Lean; Scrum; Pair; Kanban,3
+Agile; Mob; Domain-driven design,3
+Lean; Pair; Mob,3
+Waterfall; Agile; Lean; Kanban; Domain-driven design,3
+Pair; Mob; Evidence-based SWE,3
+Waterfall; Agile; Lean; Scrum; Pair; Mob; Kanban; Domain-driven design,3
+Agile; Extreme; Evidence-based SWE,3
+Agile; Scrum; Extreme; Pair; Mob; Evidence-based SWE,3
+Waterfall; Evidence-based SWE; Domain-driven design,3
+Agile; PRINCE2; Scrum; Extreme; Pair,3
+Agile; Lean; Kanban; Domain-driven design,3
+Waterfall; Agile; Kanban; Domain-driven design,3
+Waterfall; Agile; Scrum; Pair; Evidence-based SWE; Domain-driven design,3
+Agile; Scrum; Extreme; Pair; Evidence-based SWE; Domain-driven design,4
+Scrum; Kanban; Evidence-based SWE,4
+Waterfall; Agile; Pair; Mob,4
+Waterfall; Extreme; Pair; Evidence-based SWE,4
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban; Domain-driven design,4
+Agile; Pair; Kanban; Evidence-based SWE,4
+Agile; PRINCE2; Scrum; Pair; Kanban; Domain-driven design,4
+Agile; Scrum; Extreme; Pair; Evidence-based SWE,4
+Scrum; Extreme; Domain-driven design,4
+Waterfall; Agile; Extreme; Domain-driven design,4
+Agile; Lean; Scrum; Mob,4
+Agile; Lean; Scrum; Pair; Evidence-based SWE,4
+Waterfall; Agile; Lean; Scrum; Extreme; Domain-driven design,4
+Agile; Evidence-based SWE; Domain-driven design,4
+Waterfall; Extreme; Pair; Domain-driven design,4
+Waterfall; Extreme; Evidence-based SWE,4
+Extreme; Pair; Mob,4
+Waterfall; Agile; Lean; Kanban,4
+Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban,4
+Waterfall; Lean; Scrum; Kanban,4
+Extreme; Evidence-based SWE; Domain-driven design,4
+Waterfall; Scrum; Extreme; Kanban,4
+Waterfall; PRINCE2; Scrum,4
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Kanban; Evidence-based SWE,4
+Agile; Lean; Scrum; Pair; Mob; Kanban; Domain-driven design,4
+Pair; Mob; Evidence-based SWE; Domain-driven design,4
+Agile; Lean; Scrum; Evidence-based SWE,4
+Waterfall; Pair; Mob,4
+Agile; Lean; Scrum; Extreme; Domain-driven design,4
+Agile; Lean; Scrum; Extreme; Pair; Evidence-based SWE,5
+Waterfall; Agile; Lean; PRINCE2; Scrum; Pair; Kanban,5
+Agile; Lean; Evidence-based SWE,5
+Agile; PRINCE2; Pair,5
+Agile; Lean; PRINCE2; Scrum; Pair; Kanban,5
+Agile; Lean; Scrum; Kanban; Evidence-based SWE,5
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban,5
+Waterfall; Extreme; Domain-driven design,5
+Agile; Lean; Scrum; Mob; Kanban,5
+Agile; PRINCE2; Scrum; Pair,5
+Waterfall; Agile; PRINCE2; Scrum; Pair; Kanban; Domain-driven design,5
+PRINCE2; Scrum,5
+Waterfall; Agile; Scrum; Kanban; Evidence-based SWE,5
+Waterfall; Agile; Lean; Scrum; Extreme,5
+Waterfall; Agile; PRINCE2; Scrum; Pair,5
+Extreme; Pair; Kanban,5
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair; Kanban; Domain-driven design,5
+Agile; PRINCE2; Scrum; Pair; Domain-driven design,5
+Waterfall; Agile; Lean; Pair,5
+Waterfall; Lean; Evidence-based SWE,5
+Waterfall; Agile; Lean; Scrum; Extreme; Kanban; Domain-driven design,5
+Waterfall; Kanban; Domain-driven design,5
+Agile; Scrum; Pair; Kanban; Evidence-based SWE; Domain-driven design,5
+Agile; Scrum; Pair; Mob; Kanban; Domain-driven design,5
+Waterfall; Agile; PRINCE2; Scrum; Pair; Kanban,6
+Mob; Evidence-based SWE,6
+Agile; Scrum; Extreme; Pair; Kanban; Evidence-based SWE,6
+Agile; Extreme; Pair; Kanban; Domain-driven design,6
+Agile; Scrum; Pair; Mob; Domain-driven design,6
+Waterfall; PRINCE2,6
+Scrum; Pair; Mob,6
+Waterfall; Scrum; Extreme; Pair; Kanban,6
+Agile; Extreme; Pair; Mob,6
+Agile; Lean; Scrum; Pair; Kanban; Evidence-based SWE,6
+Lean; Mob,6
+Waterfall; Agile; Lean; Pair; Domain-driven design,6
+Agile; Lean; Extreme; Pair,6
+Agile; Lean; PRINCE2; Scrum,6
+Waterfall; Agile; Lean; Extreme; Pair,6
+Lean; Pair; Kanban,6
+Waterfall; Agile; Lean; Scrum; Pair; Mob; Kanban,6
+Agile; Extreme; Kanban,6
+Waterfall; Agile; Pair; Kanban; Domain-driven design,6
+Waterfall; Agile; Scrum; Extreme; Kanban; Domain-driven design,6
+Waterfall; Agile; Lean; Scrum; Pair; Domain-driven design,6
+Agile; Lean; Scrum; Pair; Mob,6
+Agile; Lean; Scrum; Extreme; Kanban; Domain-driven design,6
+Extreme; Pair; Domain-driven design,6
+Agile; Scrum; Extreme; Evidence-based SWE,6
+Agile; Lean; Extreme; Pair; Kanban; Domain-driven design,6
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Domain-driven design,6
+Extreme; Pair; Evidence-based SWE,6
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Kanban; Evidence-based SWE; Domain-driven design,7
+Waterfall; Pair; Evidence-based SWE,7
+Waterfall; Agile; Scrum; Extreme; Pair; Kanban; Evidence-based SWE,7
+Agile; Lean; Scrum; Extreme; Pair; Kanban; Evidence-based SWE,7
+Waterfall; Agile; PRINCE2,7
+Agile; Scrum; Evidence-based SWE; Domain-driven design,7
+Kanban; Evidence-based SWE,7
+Lean; Evidence-based SWE,7
+Pair; Kanban; Domain-driven design,7
+Waterfall; Pair; Domain-driven design,7
+Scrum; Mob,7
+Mob; Domain-driven design,7
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban,7
+Agile; Lean; Extreme; Pair; Kanban,7
+Extreme; Kanban,8
+Agile; PRINCE2; Scrum; Extreme; Pair; Kanban,8
+Waterfall; Agile; Mob,8
+Scrum; Evidence-based SWE,8
+Extreme; Mob,8
+Waterfall; Agile; Lean; PRINCE2; Scrum; Kanban,8
+Lean; Scrum; Pair; Kanban,8
+Waterfall; Agile; Scrum; Pair; Mob; Kanban,8
+Waterfall; Scrum; Pair; Kanban,9
+Kanban; Domain-driven design,9
+Waterfall; Agile; Lean; Scrum; Domain-driven design,9
+Lean; Extreme,9
+Scrum; Extreme; Pair; Domain-driven design,9
+Waterfall; Agile; Extreme; Pair; Kanban,9
+Scrum; Kanban; Domain-driven design,9
+Agile; Extreme; Domain-driven design,9
+Agile; PRINCE2,9
+Lean; Scrum; Pair,9
+Waterfall; Agile; Scrum; Evidence-based SWE,9
+Waterfall; Scrum; Extreme,9
+Agile; Pair; Mob,9
+Waterfall; Agile; Scrum; Pair; Mob,10
+Agile; Scrum; Mob; Kanban,10
+Waterfall; Agile; PRINCE2; Scrum; Kanban,10
+Waterfall; Scrum; Domain-driven design,10
+Scrum; Extreme; Kanban,10
+Waterfall; Agile; Scrum; Extreme; Domain-driven design,10
+Waterfall; Agile; Extreme; Pair; Domain-driven design,10
+Waterfall; Agile; Scrum; Extreme; Pair; Mob; Kanban,10
+Extreme; Domain-driven design,11
+Waterfall; Agile; Scrum; Pair; Evidence-based SWE,11
+Waterfall; Agile; PRINCE2; Scrum; Extreme; Pair; Kanban,11
+Agile; Scrum; Extreme; Pair; Mob; Kanban; Domain-driven design,11
+Waterfall; Agile; Scrum; Mob,11
+Agile; Lean; Extreme,11
+Waterfall; Agile; Lean; Scrum; Extreme; Kanban,11
+Scrum; Pair; Domain-driven design,11
+Extreme; Evidence-based SWE,11
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Kanban; Domain-driven design,11
+Agile; Lean; Scrum; Pair; Mob; Kanban,11
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban; Domain-driven design,12
+Scrum; Pair; Kanban; Domain-driven design,12
+Agile; PRINCE2; Scrum; Pair; Kanban,12
+Agile; Lean; Domain-driven design,13
+Agile; Scrum; Pair; Kanban; Evidence-based SWE,13
+Waterfall; Mob,13
+Waterfall; Agile; Lean; Scrum; Kanban; Domain-driven design,13
+Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban,14
+Agile; Lean; Scrum; Extreme,14
+Waterfall; Pair; Kanban,14
+Agile; Lean; Scrum; Extreme; Pair; Mob; Kanban; Domain-driven design,14
+Agile; Lean; Pair; Kanban,14
+Waterfall; Agile; Evidence-based SWE,14
+Agile; Scrum; Pair; Evidence-based SWE,15
+Agile; Kanban; Domain-driven design,15
+Pair; Domain-driven design,15
+Evidence-based SWE; Domain-driven design,15
+Agile; Pair; Evidence-based SWE,15
+Agile; Scrum; Extreme; Kanban; Domain-driven design,16
+Waterfall; Agile; Pair; Domain-driven design,16
+Waterfall; Extreme,16
+Agile; Scrum; Extreme; Pair; Mob; Kanban,16
+Waterfall; Agile; PRINCE2; Scrum,16
+Agile; Scrum; Extreme; Pair; Mob,16
+Waterfall; Lean,16
+Waterfall; Agile; Lean; PRINCE2; Scrum; Extreme; Pair; Mob; Kanban; Evidence-based SWE; Domain-driven design,16
+Agile; Scrum; Kanban; Evidence-based SWE,16
+Agile; PRINCE2; Scrum,17
+Lean; Scrum; Kanban,17
+Agile; Scrum; Evidence-based SWE,18
+Waterfall; Extreme; Pair,18
+Lean; Pair,18
+Agile; Extreme; Pair; Domain-driven design,18
+Agile; PRINCE2; Scrum; Kanban,18
+Waterfall; Agile; Domain-driven design,19
+Agile; Lean; Scrum; Extreme; Pair; Domain-driven design,19
+Agile; Extreme; Pair; Kanban,19
+Waterfall; Scrum; Extreme; Pair,19
+Lean; Scrum,20
+Agile; Pair; Domain-driven design,21
+Waterfall; Agile; Lean,21
+PRINCE2,21
+Agile; Pair; Kanban; Domain-driven design,22
+Pair; Mob,22
+Waterfall; Agile; Lean; Scrum; Extreme; Pair,22
+Agile; Lean; Scrum; Pair; Domain-driven design,23
+Scrum; Domain-driven design,23
+Waterfall; Agile; Lean; Scrum; Pair; Kanban; Domain-driven design,23
+Waterfall; Kanban,23
+Scrum; Extreme; Pair; Kanban,23
+Pair; Evidence-based SWE,24
+Waterfall; Agile; Scrum; Extreme; Kanban,25
+Agile; Lean; Scrum; Extreme; Kanban,25
+Agile; Scrum; Pair; Mob,25
+Lean; Kanban,26
+Waterfall; Evidence-based SWE,26
+Scrum; Extreme; Pair,26
+Agile; Scrum; Mob,27
+Agile; Evidence-based SWE,27
+Waterfall; Domain-driven design,27
+Waterfall; Agile; Lean; Scrum; Pair,27
+Agile; Lean; Scrum; Domain-driven design,27
+Waterfall; Agile; Extreme; Pair,27
+Agile; Mob,27
+Waterfall; Agile; Pair; Kanban,28
+Agile; Scrum; Extreme; Domain-driven design,28
+Agile; Scrum; Pair; Mob; Kanban,28
+Scrum; Extreme,29
+Waterfall; Scrum; Pair,29
+Agile; Lean; Scrum; Kanban; Domain-driven design,31
+Agile; Lean; Kanban,32
+Waterfall; Agile; Scrum; Extreme; Pair; Domain-driven design,33
+Waterfall; Agile; Extreme,34
+Agile; Lean; Pair,35
+Waterfall; Agile; Scrum; Domain-driven design,36
+Waterfall; Scrum; Kanban,37
+Waterfall; Agile; Scrum; Kanban; Domain-driven design,39
+Waterfall; Agile; Kanban,39
+Agile; Lean; Scrum; Extreme; Pair,43
+Waterfall; Agile; Lean; Scrum,43
+Waterfall; Agile; Scrum; Pair; Domain-driven design,44
+Extreme; Pair,46
+Waterfall; Agile; Lean; Scrum; Kanban,47
+Waterfall; Agile; Scrum; Extreme,50
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Kanban,51
+Waterfall; Agile; Scrum; Pair; Kanban; Domain-driven design,52
+Agile; Lean; Scrum; Pair; Kanban; Domain-driven design,55
+Pair; Kanban,55
+Waterfall; Agile; Lean; Scrum; Extreme; Pair; Kanban; Domain-driven design,56
+Agile; Scrum; Extreme; Pair; Domain-driven design,56
+Waterfall; Agile; Scrum; Extreme; Pair; Kanban; Domain-driven design,61
+Agile; Scrum; Extreme; Kanban,63
+Waterfall; Agile; Lean; Scrum; Pair; Kanban,64
+Agile; Domain-driven design,65
+Waterfall; Pair,66
+Scrum; Pair; Kanban,69
+Agile; Lean,73
+Agile; Scrum; Extreme; Pair; Kanban; Domain-driven design,77
+Agile; Lean; Scrum; Extreme; Pair; Kanban; Domain-driven design,78
+Agile; Lean; Scrum; Pair,79
+Lean,82
+Domain-driven design,85
+Agile; Scrum; Kanban; Domain-driven design,89
+Agile; Extreme; Pair,89
+Agile; Extreme,91
+Agile; Scrum; Pair; Domain-driven design,99
+Waterfall; Agile; Scrum; Extreme; Pair,101
+Waterfall; Agile; Pair,101
+Waterfall; Scrum,104
+Waterfall; Agile; Scrum; Extreme; Pair; Kanban,107
+Agile; Scrum; Domain-driven design,108
+Evidence-based SWE,110
+Agile; Scrum; Pair; Kanban; Domain-driven design,111
+Agile; Lean; Scrum; Extreme; Pair; Kanban,113
+Extreme,115
+Agile; Lean; Scrum,120
+Agile; Scrum; Extreme,133
+Agile; Pair; Kanban,133
+Agile; Lean; Scrum; Kanban,139
+Scrum; Kanban,142
+Mob,143
+Kanban,153
+Scrum; Pair,154
+Waterfall; Agile; Scrum; Pair; Kanban,189
+Agile; Lean; Scrum; Pair; Kanban,191
+Agile; Kanban,202
+Waterfall; Agile; Scrum; Pair,222
+Waterfall; Agile; Scrum; Kanban,231
+Agile; Scrum; Extreme; Pair; Kanban,244
+Agile; Scrum; Extreme; Pair,252
+Waterfall; Agile,265
+Pair,350
+Agile; Pair,370
+Waterfall,396
+Waterfall; Agile; Scrum,420
+Scrum,466
+Agile; Scrum; Pair; Kanban,676
+Agile; Scrum; Kanban,792
+Agile; Scrum; Pair,835
+Agile,1124
+Agile; Scrum,1535
