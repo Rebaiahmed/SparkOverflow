@@ -56,7 +56,7 @@ app.get('/programmers_professions', function(req,res){
 
   var list =[];
   csv()
-  .fromFile('programmers_professions.csv')
+  .fromFile('data/programmers_professions.csv')
   .on('json',(jsonObj)=>{
       // combine csv header row and csv line to a json object
       // jsonObj.a ==> 1 or 4
